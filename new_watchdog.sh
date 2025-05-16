@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPT="./run_rl_swarm.sh"
+SCRIPT="./run.sh"
 LOGFILE="watchdog.log"
 RETRY_DELAY=10
 CRASH_COUNT=0
